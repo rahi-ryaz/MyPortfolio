@@ -4,7 +4,7 @@ import { PROJECTS } from "../assets/Info";
 const Projects = () => {
   return (
     <div className="pb-4 flex flex-col items-center">
-      <h1 className="my-2 text-3xl animate-bounce">Projects</h1>
+      <h1 className="my-2 text-3xl animate-bounce text-[#01D293]">Projects</h1>
 
       <div className="w-full max-w-screen-lg">
         {PROJECTS.map((project, index) => (
@@ -30,7 +30,7 @@ const Projects = () => {
                   {project.technologies.map((tech, index) => (
                     <span
                       key={index}
-                      className="bg-neutral-900 text-purple-900 rounded px-2 py-1 text-sm font-medium"
+                      className="bg-black text-purple-500 rounded px-2 py-1 text-sm font-medium"
                     >
                       {tech}
                     </span>

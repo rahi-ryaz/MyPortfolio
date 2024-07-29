@@ -2,9 +2,9 @@ import project1 from "./project-1.png";
 import project3 from "./project-2.png";
 import project4 from "./project-3.png";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications.I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `NIT BTech Grad, Now Mastering It at IITB — Coding Enthusiast with a Major Focus on Full Stack Development!`;
 
-export const EXPERIENCES = [
+export const Qualifications = [
   {
     year: "2023 - Present",
     role: "Msc. Physics",

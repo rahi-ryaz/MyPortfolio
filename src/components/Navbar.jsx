@@ -1,5 +1,5 @@
 import logo from "../assets/Logo.png";
-import { FaLinkedin, FaGithub, FaPhoneSquare } from 'react-icons/fa';
+import { FaLinkedin, FaGithub } from 'react-icons/fa';
 import { BiMailSend } from 'react-icons/bi';
 import { CONTACT } from "../assets/Info";
 
@@ -9,8 +9,8 @@ const Navbar = () => {
      
       <div className="container mx-auto flex flex-wrap items-center justify-between py-4 px-6">
 
-        <div className="flex items-center flex-shrink-0">
-          <img className="w-20 h-auto" src={logo} alt="logo" />
+        <div className="flex items-center flex-shrink-0 ">
+          <img className="  w-20 h-auto" src={logo} alt="logo" />
         </div>
 
      
