@@ -46,15 +46,6 @@ const Navbar = () => {
           <BiMailSend />
         </a>
         
-        {/* Phone */}
-        <a
-          href={CONTACT.phoneNo}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="hover:text-red-700"
-        >
-          <FaPhoneSquare />
-        </a>
       </div>
       </div>
     </nav>

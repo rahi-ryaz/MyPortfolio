@@ -6,7 +6,6 @@ function Contact() {
       <div className="text-center tracking-tighter">
 
            <p className="my-4">{CONTACT.address}</p>
-           <p className="my-4">{CONTACT.phoneNo}</p>
            <a href="#" className="border">{CONTACT.email} </a>
 
       </div>

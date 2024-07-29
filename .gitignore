@@ -1,7 +1,5 @@
 /node_modules
-/src/constants/index.js
-/src/assets/
-public/favicon.ico
+
 
 # Logs
 logs

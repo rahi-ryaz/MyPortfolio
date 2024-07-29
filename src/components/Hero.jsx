@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../assets/Info";
-//import profilePic from "../assets/Profile.png";
+
 
 const Hero = () => {
   return (
