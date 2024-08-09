@@ -7,7 +7,7 @@ import Contact from './components/Contact'
 
 const App = () => {
   return (
-    <div className ="overflow-x-hidden text-neutral-300 bg-[#0E1630]">
+    <div className ="overflow-x-hidden text-neutral-300 bg-[#212121]">
 
            <div className=" container mx-auto px-8"> 
                 <Navbar/>

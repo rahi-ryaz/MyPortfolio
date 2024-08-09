@@ -27,33 +27,33 @@ export const PROJECTS = [
     title: "QuickBite E-Commerce Website",
     image: project1,
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
     technologies: ["HTML", "CSS", "React","Redux","TailwindCSS","Jest for Testing","HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },{
     title: "URL-Shortener",
     image: project3,
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five ",
+    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
     technologies: ["HTML", "CSS", "React", "TailwindCSS"],
   },
   {
     title: "Airline Ticket Booking Microservice Website ",
     image: project4,
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five",
+    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   }, {
     title: "InstantShow",
     image: project3,
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five ",
+    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
     technologies: ["HTML", "CSS", "React", "TailwindCSS"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five",
+    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
     technologies: ["HTML", "CSS", "React", "TailwindCSS"],
   },
 
